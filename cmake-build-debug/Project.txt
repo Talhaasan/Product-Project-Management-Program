@@ -1,0 +1,2 @@
+1 House Fatih Talha Omer 1000000
+2 Mall Fatih Talha Omer 5000000
