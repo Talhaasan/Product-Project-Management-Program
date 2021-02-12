@@ -1,4 +1,0 @@
-
-1 Vegatables 1000 10 Migros
-2 Beef 2000 1000 Migros
-3 Fish 1500 200 Migros
